@@ -1,0 +1,472 @@
+Team,SAG_rating
+1  Alabama,92.8
+2  Houston,92.04
+3  UCLA,91.66
+4  Texas,90.69
+5  Connecticut,90.59
+6  Gonzaga,90.15
+7  Kansas,89.96
+8  Tennessee,89.47
+9  Arizona,89.15
+10  Purdue,88.26
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+11  Creighton,87.91
+12  Marquette,87.85
+13  Baylor,87.8
+14  Duke,87.34
+15  Saint Mary's-Cal.,86.96
+16  Arkansas,86.59
+17  Indiana,86.55
+18  Memphis,86.4
+19  Kentucky,86.33
+20  San Diego State,86.09
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+21  Xavier-Ohio,86.01
+22  TCU,85.82
+23  West Virginia,85.68
+24  Michigan State,85.51
+25  Kansas State,85.39
+26  Texas A&M,85.37
+27  Auburn,85.2
+28  Maryland,84.97
+29  Illinois,84.78
+30  Virginia,84.64
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+31  Penn State,84.54
+32  Miami-Florida,84.51
+33  Michigan,84.43
+34  Iowa,84.43
+35  Northwestern,84.41
+36  North Carolina,84.22
+37  Florida Atlantic,84.12
+38  Iowa State,83.97
+39  Cincinnati,83.78
+40  Oregon,83.75
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+41  Providence,83.74
+42  Southern California,83.67
+43  Texas Tech,83.57
+44  Rutgers,83.54
+45  Oklahoma State,83.37
+46  Utah State,83.32
+47  Ohio State,83.11
+48  VCU(Va. Commonwealth),83.05
+49  NC State,82.9
+50  Villanova,82.86
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+51  UAB,82.42
+52  Pittsburgh,82.37
+53  Wisconsin,82.31
+54  Missouri,82.29
+55  Mississippi State,82.21
+56  Arizona State,82.04
+57  Oklahoma,82.03
+58  Clemson,81.87
+59  Vanderbilt,81.7
+60  Drake,81.61
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+61  Seton Hall,81.53
+62  Boise State,81.5
+63  Central Florida(UCF),81.49
+64  North Texas,81.16
+65  Colorado,81.09
+66  Dayton,80.86
+67  BYU,80.85
+68  Kent State,80.7
+69  Stanford,80.61
+70  Florida,80.6
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+71  College of Charleston,80.56
+72  St. John's,80.55
+73  Virginia Tech,80.4
+74  Washington State,80.28
+75  Toledo,80.06
+76  Yale,80.05
+77  Oral Roberts,79.72
+78  Wake Forest,79.72
+79  Liberty,79.52
+80  Utah,79.39
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+81  Furman,79.15
+82  Iona,79.1
+83  Saint Louis,78.89
+84  Hofstra,78.85
+85  Bradley,78.84
+86  Santa Clara,78.7
+87  Utah Valley,78.55
+88  Nebraska,78.36
+89  Nevada,78.35
+90  New Mexico,78.31
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+91  Sam Houston State,78.24
+92  Princeton,78.18
+93  Louisiana,78.03
+94  Wichita State,77.94
+95  Syracuse,77.89
+96  San Francisco,77.84
+97  Indiana State,77.81
+98  Marshall,77.74
+99  Akron,77.25
+100  Washington,77.24
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+101  Mississippi,77.23
+102  Tulane,77.19
+103  Temple,76.91
+104  UNLV,76.74
+105  Belmont,76.65
+106  Vermont,76.53
+107  South Alabama,76.32
+108  Grand Canyon,76.28
+109  San Jose State,76.11
+110  UC Santa Barbara,76.09
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+111  Butler,76.04
+112  Colorado State,76
+113  Davidson,75.95
+114  Colgate,75.92
+115  NC Greensboro,75.74
+116  Loyola Marymount,75.6
+117  Ohio,75.6
+118  James Madison,75.55
+119  Georgia Tech,75.33
+120  Fordham,75.21
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+121  Notre Dame,75.18
+122  UC Irvine,75.07
+123  LSU,75.04
+124  Towson,74.98
+125  DePaul,74.92
+126  George Mason,74.92
+127  Charlotte,74.9
+128  Pennsylvania,74.89
+129  Middle Tennessee,74.88
+130  Montana State,74.8
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+131  Southern Illinois,74.79
+132  Boston College,74.63
+133  Duquesne,74.54
+134  UMass Lowell,74.4
+135  Samford,74.36
+136  Missouri State,74.35
+137  Southern Utah,74.34
+138  Eastern Washington,74.3
+139  Southern Miss,74.22
+140  Youngstown State,73.85
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+141  Fresno State,73.77
+142  Kennesaw State,73.65
+143  Richmond,73.63
+144  Hawai'i,73.44
+145  CS Fullerton,73.34
+146  Northern Kentucky,73.24
+147  South Florida,73.23
+148  UC Riverside,73.22
+149  Stephen F. Austin,73.21
+150  Troy,73.2
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+151  Minnesota,73.19
+152  Florida State,73.18
+153  Saint Joseph's-Pa.,73.02
+154  NC Wilmington,72.93
+155  Georgia,72.92
+156  SMU,72.77
+157  Ball State,72.75
+158  East Carolina,72.67
+159  Old Dominion,72.54
+160  South Carolina,72.52
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+161  NC Asheville,72.38
+162  Chattanooga,72.28
+163  South Dakota State,72.25
+164  Portland,72.24
+165  Western Kentucky,72.23
+166  Seattle,72.19
+167  Harvard,72.19
+168  Cornell,72.14
+169  Wyoming,72.11
+170  Louisiana Tech,72.1
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+171  St. Bonaventure,72.07
+172  New Mexico State,71.69
+173  Oregon State,71.68
+174  Brown,71.52
+175  Northern Iowa,71.51
+176  Lipscomb,71.48
+177  Georgetown,71.42
+178  Wright State,71.42
+179  Air Force,71.41
+180  California Baptist,71.3
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+181  Long Beach State,71.19
+182  Navy,71.16
+183  UTEP,71.09
+184  Massachusetts,71.09
+185  UC Davis,71.03
+186  Montana,71
+187  George Washington,70.95
+188  Drexel,70.95
+189  Longwood,70.91
+190  Cleveland State,70.88
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+191  Weber State,70.82
+192  Eastern Kentucky,70.75
+193  Buffalo,70.72
+194  La Salle,70.66
+195  Appalachian State,70.65
+196  Murray State,70.63
+197  Texas State,70.56
+198  Texas A&M-CorpusChristi,70.53
+199  Norfolk State,70.32
+200  Georgia Southern,70.27
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+201  Mercer,70.23
+202  Radford,70.16
+203  Wofford,70.14
+204  Tarleton State,70.13
+205  Utah Tech,70.01
+206  Pepperdine,69.95
+207  Pacific,69.93
+208  Rider,69.89
+209  Loyola-Chicago,69.87
+210  Detroit Mercy,69.86
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+211  North Dakota State,69.73
+212  Grambling State,69.5
+213  Bryant,69.5
+214  Abilene Christian,69.49
+215  Fla. International,69.47
+216  NC Central,69.46
+217  Quinnipiac,69.4
+218  St. Thomas-Mn.,69.24
+219  Western Carolina,69.19
+220  Morehead State,69.04
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+221  Rice,69.03
+222  Siena,68.91
+223  Louisville,68.89
+224  Florida Gulf Coast,68.85
+225  Gardner-Webb,68.79
+226  Campbell,68.76
+227  Stetson,68.76
+228  Jacksonville State,68.63
+229  Rhode Island,68.61
+230  Howard,68.61
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+231  Northern Arizona,68.6
+232  San Diego,68.51
+233  Delaware,68.46
+234  East Tennessee State(ETS,68.35
+235  Milwaukee,68.33
+236  Northern Colorado,68.24
+237  Winthrop,68.04
+238  Fort Wayne(PFW),67.89
+239  Northwestern State,67.85
+240  Northern Illinois,67.74
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+241  UMBC,67.72
+242  California,67.66
+243  Miami-Ohio,67.65
+244  USC Upstate,67.56
+245  Robert Morris,67.52
+246  Sacramento State,67.36
+247  North Florida(UNF),67.26
+248  Boston U.,67.26
+249  Canisius,67.18
+250  Army West Point,67.13
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+251  Queens-NC,67.04
+252  UT Arlington,66.99
+253  Niagara,66.93
+254  Valparaiso,66.91
+255  Illinois State,66.86
+256  Dartmouth,66.83
+257  SE Missouri State(SEMO),66.82
+258  Jacksonville,66.67
+259  Western Illinois,66.54
+260  Fairfield,66.49
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+261  Bellarmine,66.46
+262  Oakland-Mich.,66.42
+263  Alcorn State,66.42
+264  Arkansas State,66.32
+265  Lehigh,66.27
+266  Marist,66.07
+267  Portland State,66
+268  Fairleigh Dickinson,65.93
+269  New Hampshire,65.92
+270  Lafayette,65.86
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+271  Illinois-Chicago,65.85
+272  SIU-Edwardsville,65.71
+273  Merrimack,65.7
+274  Mount St. Mary's,65.69
+275  Bowling Green,65.61
+276  Georgia State,65.58
+277  UTSA,65.49
+278  UC San Diego,65.46
+279  UTRGV,65.44
+280  Manhattan,65.43
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+281  American U.,65.42
+282  Idaho State,65.35
+283  North Dakota,65.32
+284  South Dakota,65.32
+285  Md.-Eastern Shore(UMES),65.18
+286  Coastal Carolina,65.09
+287  North Alabama,65.08
+288  Northeastern,65.04
+289  Saint Peter's,65.01
+290  Tennessee State,64.99
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+291  SE Louisiana,64.89
+292  CS Bakersfield,64.89
+293  Cal Poly-SLO,64.84
+294  Tulsa,64.75
+295  ULM,64.72
+296  Southern U.,64.65
+297  Binghamton-NY,64.61
+298  Texas Southern,64.53
+299  High Point,64.46
+300  Prairie View A&M,64.39
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+301  Eastern Michigan,64.36
+302  Nicholls State,64.34
+303  Tennessee-Martin,64.3
+304  William & Mary,64.24
+305  Stony Brook-NY,64.21
+306  Western Michigan,64.2
+307  Tennessee Tech,64.19
+308  Maine,63.92
+309  Denver,63.89
+310  Loyola-Maryland,63.78
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+311  Bucknell,63.76
+312  Wagner,63.65
+313  Jackson State,63.57
+314  NC A&T,63.29
+315  Chicago State,63.19
+316  Kansas City(UMKC),63.04
+317  Charleston Southern,62.91
+318  Sacred Heart,62.9
+319  Southern Indiana,62.86
+320  The Citadel,62.81
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+321  Little Rock,62.68
+322  Omaha(Neb.-Omaha),62.61
+323  Idaho,62.48
+324  Alabama A&M,62.33
+325  Elon,62.17
+326  Central Michigan,62.14
+327  NJIT(New Jersey Tech),62.11
+328  Saint Francis-Pa.,61.94
+329  Texas A&M-Commerce,61.66
+330  CS Northridge,61.64
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+331  Morgan State,61.59
+332  New Orleans,61.49
+333  Albany-NY,61.31
+334  Austin Peay,61.2
+335  Monmouth-NJ,61.16
+336  Hampton,60.97
+337  Stonehill,60.96
+338  McNeese State,60.6
+339  Holy Cross,60.57
+340  Presbyterian College,60.54
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+341  Columbia,60.42
+342  Central Connecticut St.,60.32
+343  Central Arkansas,59.93
+344  Evansville,59.79
+345  VMI,59.63
+346  Ark.-Pine Bluff,59.54
+347  Coppin State,59.5
+348  St. Francis-NY,59.46
+349  Bethune-Cookman,59.45
+350  Incarnate Word,58.96
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+351  Eastern Illinois,58.9
+352  Florida A&M,58.36
+353  IUPUI,58.31
+354  Lindenwood,58.07
+355  Alabama State,57.93
+356  SC State,57.5
+357  Lamar,57.49
+358  Houston Christian,57.06
+359  MVSU(Miss. Valley St.),56.38
+360  Delaware State,56.28
+College Basketball 2022-2023    Div I games only    through games,
+RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR,
+HOME ADVANTAGE,[
+361  Green Bay,55.72
+362  Hartford,54.48
+363  Long Island U.(LIU),52.72

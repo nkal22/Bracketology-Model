@@ -1,0 +1,355 @@
+,,Team,,CONF,KPI_rk,Record,Conf_Record,Home_record,Away_record,Best,Worst,,,KPI_sos,KPI_sos_rk,Diff,ODiff,DDiff
+,,Duke,,ACC,0.474,29 - 5,17 - 4,15 - 2,14 - 3,1.09 @ Virginia,-0.04 (H) Syracuse,,,0.196,7,0.252,0.126,0.126
+,,Virginia,,ACC,0.451,29 - 3,17 - 3,15 - 1,14 - 2,1.06 @ North Carolina,-0.01 (N) Florida State,,,0.14,49,0.272,0.148,0.124
+,,North Carolina,,ACC,0.433,27 - 6,17 - 3,14 - 2,13 - 4,1.15 @ Duke,-0.08 (N) Texas,,,0.193,8,0.212,0.116,0.096
+,,Michigan State,,Big Ten,0.423,28 - 6,19 - 4,15 - 1,13 - 5,0.98 @ Michigan,-0.22 @ Illinois,,,0.183,13,0.226,0.132,0.094
+,,Kansas,,Big 12,0.416,25 - 9,14 - 7,16 - 0,9 - 9,0.86 (N) Michigan State,-0.11 @ West Virginia,,,0.247,1,0.143,0.064,0.079
+,,Kentucky,,SEC,0.411,27 - 6,16 - 4,17 - 1,10 - 5,0.92 (N) North Carolina,-0.05 (N) Seton Hall,,,0.177,18,0.212,0.111,0.101
+,,Houston,,AAC,0.401,31 - 3,18 - 3,19 - 1,12 - 2,0.99 @ Cincinnati,-0.02 (H) UCF,,,0.09,75,0.212,0.104,0.108
+,,LSU,,SEC,0.387,26 - 6,16 - 3,15 - 2,11 - 4,1.00 @ Kentucky,-0.19 (N) Oklahoma State,,,0.145,45,0.156,0.108,0.048
+,,Michigan,,Big Ten,0.383,28 - 6,17 - 6,17 - 1,11 - 5,0.99 @ Villanova,-0.10 @ Penn State,,,0.162,31,0.205,0.077,0.128
+,,Tennessee,,SEC,0.381,29 - 5,17 - 4,18 - 0,11 - 5,0.94 (H) Kentucky,-0.01 (N) Auburn,,,0.141,48,0.186,0.13,0.057
+,,Gonzaga,,WCC,0.372,30 - 3,17 - 1,17 - 0,13 - 3,0.95 (N) Duke,-0.03 (N) St. Mary's (CA),,,0.08,82,0.306,0.179,0.128
+,,Texas Tech,,Big 12,0.366,26 - 6,14 - 5,17 - 1,9 - 5,0.94 (H) Kansas,-0.16 (N) West Virginia,,,0.141,47,0.214,0.072,0.142
+,,Kansas State,,Big 12,0.359,25 - 8,15 - 5,13 - 2,12 - 6,0.86 (H) Kansas,-0.13 @ Texas A&M,,,0.185,11,0.122,0.008,0.114
+,,Florida State,,ACC,0.349,27 - 7,15 - 6,15 - 1,12 - 6,0.95 (N) Virginia,-0.19 @ Pittsburgh,,,0.152,37,0.148,0.061,0.087
+,,Purdue,,Big Ten,0.325,23 - 9,16 - 5,15 - 0,8 - 9,0.88 (H) Michigan State,-0.23 (N) Notre Dame,,,0.183,12,0.179,0.129,0.05
+,,Cincinnati,,AAC,0.324,28 - 6,17 - 4,16 - 2,12 - 4,0.95 (N) Houston,-0.40 @ East Carolina,,,0.093,74,0.158,0.077,0.081
+,,Villanova,,Big East,0.323,25 - 9,16 - 5,13 - 2,12 - 7,0.83 (N) Florida State,-0.09 @ Penn,,,0.17,24,0.132,0.097,0.035
+,,Buffalo,,MAC,0.321,31 - 3,19 - 2,14 - 0,17 - 3,0.79 @ Toledo,-0.19 @ Northern Illinois,,,0.038,94,0.19,0.103,0.087
+,,Iowa State,,Big 12,0.32,23 - 11,12 - 9,12 - 4,11 - 7,0.93 @ Texas Tech,-0.13 (N) Arizona,,,0.182,15,0.154,0.112,0.042
+,,Auburn,,SEC,0.317,26 - 9,15 - 7,15 - 2,11 - 7,0.90 (N) Tennessee,-0.10 @ South Carolina,,,0.146,44,0.173,0.112,0.061
+,,Marquette,,Big East,0.315,24 - 9,13 - 7,16 - 3,8 - 6,0.89 (H) Buffalo,-0.09 (H) Georgetown,,,0.149,39,0.152,0.074,0.078
+,,Mississippi State,,SEC,0.305,23 - 10,11 - 9,14 - 3,9 - 7,0.84 (H) Cincinnati,-0.10 @ South Carolina,,,0.164,29,0.157,0.104,0.053
+,,Wisconsin,,Big Ten,0.293,23 - 10,15 - 7,12 - 3,11 - 7,0.86 (H) Michigan,-0.07 @ Indiana,,,0.178,16,0.158,0.05,0.107
+,,Maryland,,Big Ten,0.287,22 - 10,13 - 8,15 - 3,7 - 7,0.79 (H) Purdue,-0.28 (N) Illinois,,,0.166,27,0.135,0.071,0.065
+,,Virginia Tech,,ACC,0.278,24 - 8,13 - 7,14 - 2,10 - 6,0.96 (H) Duke,-0.10 @ Penn State,,,0.111,60,0.207,0.122,0.085
+,,UCF,,AAC,0.273,23 - 8,13 - 6,15 - 2,8 - 6,1.05 @ Houston,-0.30 (H) Florida Atlantic,,,0.098,70,0.153,0.071,0.082
+,,Seton Hall,,Big East,0.263,20 - 13,11 - 10,11 - 4,9 - 9,0.86 (N) Kentucky,-0.21 (H) DePaul,,,0.173,20,0.082,0.031,0.051
+,,Washington,,Pac-12,0.262,26 - 8,17 - 4,15 - 1,11 - 7,0.73 @ Oregon,-0.42 @ California,,,0.101,65,0.122,0.027,0.095
+,,Nevada,,Mountain West,0.262,29 - 4,16 - 4,15 - 0,14 - 4,0.80 (H) Utah State,-0.27 @ New Mexico,,,0.013,115,0.197,0.104,0.094
+,,Oklahoma,,Big 12,0.26,19 - 13,7 - 12,9 - 4,10 - 9,0.88 (H) Kansas,-0.15 (N) West Virginia,,,0.221,4,0.088,0.024,0.064
+,,Louisville,,ACC,0.253,20 - 13,11 - 9,14 - 4,6 - 9,1.12 @ North Carolina,-0.18 @ Pittsburgh,,,0.19,10,0.162,0.079,0.082
+,,VCU,,Atlantic 10,0.244,25 - 7,16 - 3,16 - 1,9 - 6,0.67 (N) Temple,-0.15 (N) Rhode Island,,,0.049,91,0.161,0.022,0.139
+,,Wofford,,SoCon,0.24,29 - 4,21 - 0,15 - 1,14 - 3,0.93 @ UNC-Greensboro,-0.02 @ Oklahoma,,,-0.03,166,0.201,0.125,0.076
+,,Arizona State,,Pac-12,0.24,22 - 10,13 - 7,13 - 3,9 - 7,0.85 (H) Kansas,-0.52 (H) Washington State,,,0.098,69,0.095,0.045,0.05
+,,Baylor,,Big 12,0.233,19 - 13,10 - 9,13 - 5,6 - 8,0.83 @ Oklahoma,-0.54 (H) Stephen F. Austin,,,0.17,22,0.107,0.073,0.034
+,,Syracuse,,ACC,0.232,20 - 13,11 - 9,13 - 6,7 - 7,1.09 @ Duke,-0.23 (H) Georgia Tech,,,0.166,28,0.119,0.042,0.077
+,,Texas,,Big 12,0.231,16 - 16,8 - 11,12 - 6,4 - 10,0.96 @ Kansas State,-0.25 @ Georgia,,,0.227,3,0.107,0.062,0.045
+,,Minnesota,,Big Ten,0.228,21 - 13,11 - 12,13 - 3,8 - 10,0.85 @ Wisconsin,-0.24 @ Illinois,,,0.17,23,0.063,0.031,0.032
+,,TCU,,Big 12,0.227,20 - 13,8 - 12,12 - 5,8 - 8,0.83 @ Iowa State,-0.14 @ Oklahoma State,,,0.183,14,0.093,0.049,0.044
+,,St. John's,,Big East,0.224,21 - 12,9 - 11,13 - 4,8 - 8,0.84 @ Marquette,-0.21 (H) DePaul,,,0.125,56,0.068,0.044,0.024
+,,St. Mary's (CA),,WCC,0.222,22 - 11,13 - 5,14 - 3,8 - 8,0.96 (N) Gonzaga,-0.22 @ Pepperdine,,,0.077,84,0.177,0.108,0.069
+,,Utah State,,Mountain West,0.222,28 - 6,18 - 3,14 - 1,14 - 5,0.83 @ UC-Irvine,-0.08 (H) Fresno State,,,-0.005,139,0.174,0.089,0.085
+,,Temple,,AAC,0.221,23 - 9,13 - 6,13 - 2,10 - 7,0.91 (H) Houston,-0.14 (H) Penn,,,0.098,68,0.076,0.041,0.035
+,,Creighton,,Big East,0.214,18 - 14,9 - 10,11 - 6,7 - 8,0.86 @ Marquette,-0.09 (N) Xavier,,,0.158,34,0.099,0.078,0.021
+,,Oregon,,Pac-12,0.212,23 - 12,14 - 8,13 - 4,10 - 8,0.89 @ Washington,-0.30 (H) Texas Southern,,,0.094,73,0.135,0.038,0.097
+,,Iowa,,Big Ten,0.21,22 - 11,11 - 11,14 - 4,8 - 7,0.88 (H) Michigan,-0.21 (H) Rutgers,,,0.13,54,0.095,0.097,-0.002
+,,Mississippi,,SEC,0.206,20 - 12,10 - 9,11 - 5,9 - 7,0.88 @ Auburn,-0.10 @ South Carolina,,,0.139,50,0.112,0.069,0.043
+,,Alabama,,SEC,0.199,18 - 15,9 - 11,10 - 5,8 - 10,0.87 (H) Kentucky,-0.18 (H) Texas A&M,,,0.178,17,0.067,0.021,0.045
+,,Florida,,SEC,0.194,19 - 15,11 - 10,9 - 6,10 - 9,0.97 @ LSU,-0.33 (H) Georgia,,,0.192,9,0.117,0.034,0.083
+,,Ohio State,,Big Ten,0.191,19 - 14,9 - 13,12 - 6,7 - 8,0.96 @ Cincinnati,-0.30 (H) Illinois,,,0.157,35,0.089,0.025,0.064
+,,Georgetown,,Big East,0.19,19 - 13,9 - 10,13 - 5,6 - 8,0.85 @ Marquette,-0.20 (H) SMU,,,0.118,58,0.054,0.038,0.015
+,,Xavier,,Big East,0.188,18 - 15,10 - 10,12 - 5,6 - 10,0.79 (H) Villanova,-0.21 (H) DePaul,,,0.167,26,0.057,0.043,0.014
+,,Clemson,,ACC,0.184,19 - 13,9 - 10,13 - 4,6 - 9,0.76 (H) Virginia Tech,-0.12 @ Miami (FL),,,0.136,52,0.128,0.03,0.098
+,,Toledo,,MAC,0.181,25 - 7,13 - 6,14 - 2,11 - 5,0.66 (N) UC-Irvine,-0.28 (H) Ball State,,,0.004,127,0.133,0.07,0.063
+,,Indiana,,Big Ten,0.181,17 - 15,8 - 13,13 - 5,4 - 10,0.99 @ Michigan State,-0.21 @ Northwestern,,,0.171,21,0.083,0.028,0.056
+,,Butler,,Big East,0.178,16 - 16,7 - 12,12 - 4,4 - 12,0.68 (H) UC-Irvine,-0.11 (N) Providence,,,0.173,19,0.062,0.049,0.014
+,,New Mexico State,,WAC,0.178,30 - 4,18 - 1,16 - 1,14 - 3,0.65 @ Utah Valley,-0.27 @ California Baptist,,,-0.064,221,0.151,0.083,0.068
+,,Memphis,,AAC,0.175,21 - 13,13 - 8,17 - 3,4 - 10,0.81 (H) UCF,-0.20 (N) Oklahoma State,,,0.096,72,0.106,0.052,0.054
+,,Nebraska,,Big Ten,0.172,18 - 16,8 - 15,12 - 5,6 - 11,0.73 (N) Maryland,-0.22 @ Illinois,,,0.161,32,0.095,0.047,0.048
+,,Providence,,Big East,0.171,18 - 15,8 - 12,11 - 6,7 - 9,0.71 @ St. John's,-0.52 (H) Massachusetts,,,0.146,41,0.057,-0.006,0.062
+,,UNC-Greensboro,,SoCon,0.17,28 - 6,17 - 4,14 - 1,14 - 5,0.65 @ East Tennessee State,-0.03 @ Furman,,,-0.027,164,0.117,0.038,0.079
+,,Belmont,,OVC,0.165,26 - 5,17 - 3,13 - 1,13 - 4,0.83 @ Murray State,-0.23 @ Green Bay,,,-0.062,218,0.162,0.119,0.043
+,,Davidson,,Atlantic 10,0.16,24 - 9,15 - 5,14 - 1,10 - 8,0.76 (H) VCU,-0.47 @ LaSalle,,,0.008,120,0.078,0.038,0.04
+,,Old Dominion,,C-USA,0.16,26 - 8,16 - 5,14 - 2,12 - 6,0.77 (H) VCU,-0.26 (N) Northern Iowa,,,-0.023,158,0.079,0.001,0.078
+,,Wichita State,,AAC,0.158,19 - 14,12 - 9,11 - 4,8 - 10,0.76 (H) UCF,-0.16 (H) Louisiana Tech,,,0.109,61,0.051,0.012,0.039
+,,North Carolina State,,ACC,0.158,22 - 11,10 - 10,15 - 4,7 - 7,0.76 (H) Auburn,-0.23 @ Wake Forest,,,0.07,86,0.134,0.078,0.056
+,,Penn State,,Big Ten,0.156,14 - 18,7 - 14,9 - 6,5 - 12,0.84 (H) Michigan,-0.20 (H) Rutgers,,,0.199,6,0.083,0.025,0.058
+,,Georgia State,,Sun Belt,0.151,24 - 9,15 - 5,13 - 1,11 - 8,0.63 @ Alabama,-0.38 @ Troy,,,0,131,0.076,0.053,0.024
+,,Arkansas,,SEC,0.15,17 - 15,8 - 11,12 - 6,5 - 9,0.96 @ LSU,-0.22 (H) Georgia Tech,,,0.146,42,0.065,0.026,0.039
+,,BYU,,WCC,0.148,19 - 13,11 - 6,13 - 3,6 - 10,0.75 (H) Utah State,-0.24 @ Weber State,,,0.075,85,0.09,0.073,0.016
+,,UC-Irvine,,Big West,0.146,30 - 5,18 - 1,12 - 2,18 - 3,0.79 @ St. Mary's (CA),-0.41 (H) Long Beach State,,,-0.073,236,0.129,0.048,0.081
+,,Northeastern,,CAA,0.146,23 - 10,17 - 4,11 - 2,12 - 8,0.63 (H) Hofstra,-0.54 @ Towson,,,0.008,121,0.103,0.072,0.031
+,,Colorado,,Pac-12,0.146,21 - 12,12 - 9,13 - 2,8 - 10,0.66 (H) Oregon,-0.37 @ Washington State,,,0.065,87,0.09,0.024,0.066
+,,West Virginia,,Big 12,0.145,14 - 20,6 - 15,10 - 6,4 - 14,0.84 (H) Kansas,-0.20 (H) Oklahoma State,,,0.213,5,0.012,0.025,-0.012
+,,Yale,,Ivy,0.145,22 - 7,12 - 4,10 - 2,12 - 5,0.50 (N) Harvard,-0.60 (H) Columbia,,,-0.004,135,0.096,0.079,0.017
+,,Oregon State,,Pac-12,0.145,18 - 13,10 - 9,10 - 5,8 - 8,0.73 @ Oregon,-0.21 (H) Stanford,,,0.078,83,0.063,0.061,0.002
+,,Murray State,,OVC,0.144,27 - 4,18 - 2,15 - 1,12 - 3,0.70 (N) Belmont,-0.10 @ Jacksonville State,,,-0.095,266,0.167,0.101,0.066
+,,Lipscomb,,ASUN,0.14,25 - 7,16 - 3,14 - 3,11 - 4,0.72 @ TCU,-0.32 @ Florida Gulf Coast,,,-0.062,219,0.156,0.08,0.076
+,,Dayton,,Atlantic 10,0.138,21 - 11,13 - 6,13 - 4,8 - 7,0.67 @ Davidson,-0.21 (H) George Mason,,,0.039,93,0.117,0.075,0.042
+,,Vermont,,America East,0.136,27 - 6,17 - 2,16 - 2,11 - 4,0.62 (H) Yale,-0.29 (H) UMBC,,,-0.087,259,0.14,0.078,0.063
+,,Oklahoma State,,Big 12,0.134,12 - 20,5 - 14,8 - 7,4 - 13,0.87 (N) LSU,-0.53 @ Charlotte,,,0.233,2,0.009,0.021,-0.012
+,,Arizona,,Pac-12,0.132,17 - 15,8 - 11,12 - 5,5 - 10,0.70 (N) Iowa State,-0.51 (H) Washington State,,,0.103,64,0.073,0.012,0.061
+,,Furman,,SoCon,0.132,25 - 7,14 - 6,13 - 2,12 - 5,0.90 @ Villanova,-0.28 (H) Samford,,,-0.055,212,0.144,0.06,0.084
+,,Harvard,,Ivy,0.132,18 - 11,11 - 5,9 - 2,9 - 9,0.80 @ St. Mary's (CA),-0.46 @ Dartmouth,,,0.036,97,0.044,0.013,0.031
+,,South Carolina,,SEC,0.128,16 - 16,11 - 8,11 - 6,5 - 10,0.75 (H) Mississippi State,-0.65 @ Wyoming,,,0.149,40,0.039,0.006,0.032
+,,San Diego,,WCC,0.128,21 - 14,10 - 10,12 - 4,9 - 10,0.60 @ San Francisco,-0.30 (H) Pepperdine,,,0.054,89,0.09,0.029,0.061
+,,Liberty,,ASUN,0.127,28 - 6,17 - 2,16 - 1,12 - 5,0.70 @ Lipscomb,-0.34 @ Vanderbilt,,,-0.114,292,0.14,0.083,0.056
+,,Utah,,Pac-12,0.123,17 - 14,11 - 8,10 - 5,7 - 9,0.77 @ Arizona State,-0.30 (N) Hawaii,,,0.086,77,0.022,0.084,-0.062
+,,UCLA,,Pac-12,0.122,17 - 16,10 - 10,13 - 5,4 - 11,0.72 @ Oregon,-0.16 @ USC,,,0.112,59,0.056,0.038,0.018
+,,Saint Louis,,Atlantic 10,0.121,23 - 12,14 - 8,15 - 2,8 - 10,0.70 @ Seton Hall,-0.46 (H) Richmond,,,0.021,105,0.066,-0.005,0.071
+,,Drake,,MVC,0.121,24 - 9,13 - 7,13 - 2,11 - 7,0.68 (N) New Mexico State,-0.44 @ Evansville,,,-0.032,173,0.066,0.051,0.015
+,,San Francisco,,WCC,0.12,21 - 10,9 - 8,14 - 3,7 - 7,0.67 (H) St. Mary's (CA),-0.29 (N) Pepperdine,,,0.003,128,0.132,0.094,0.038
+,,Tulsa,,AAC,0.119,18 - 14,8 - 11,14 - 3,4 - 11,0.75 (H) Kansas State,-0.19 (N) SMU,,,0.082,80,0.041,0.013,0.028
+,,Western Kentucky,,C-USA,0.118,20 - 14,13 - 8,10 - 4,10 - 10,0.71 (H) Wisconsin,-0.49 (H) Troy,,,0.051,90,0.062,0.026,0.037
+,,DePaul,,Big East,0.117,15 - 15,7 - 12,12 - 6,3 - 9,0.71 @ Seton Hall,-0.23 (H) Boston College,,,0.099,66,0.026,0.047,-0.021
+,,Missouri,,SEC,0.116,15 - 17,6 - 14,9 - 7,6 - 10,0.74 (H) UCF,-0.18 (H) Texas A&M,,,0.164,30,0.044,0.002,0.041
+,,San Diego State,,Mountain West,0.116,21 - 13,13 - 8,14 - 3,7 - 10,0.82 (N) Nevada,-0.43 @ California,,,0.017,109,0.069,0.015,0.054
+,,Hofstra,,CAA,0.116,27 - 7,17 - 4,15 - 1,12 - 6,0.62 @ Charleston,-0.51 (H) James Madison,,,-0.069,227,0.119,0.119,0
+,,Kent State,,MAC,0.114,22 - 10,11 - 8,14 - 3,8 - 7,0.66 (H) Toledo,-0.23 @ Eastern Michigan,,,-0.007,144,0.029,0.049,-0.02
+,,Texas A&M,,SEC,0.113,14 - 18,7 - 13,9 - 8,5 - 10,0.79 (H) Kansas State,-0.31 (H) Texas Southern,,,0.16,33,0.035,0.008,0.027
+,,Utah Valley,,WAC,0.111,24 - 9,13 - 5,13 - 1,11 - 8,0.60 @ Fresno State,-0.25 @ Cal State-Bakersfield,,,-0.038,189,0.083,0.06,0.023
+,,Fresno State,,Mountain West,0.107,23 - 9,14 - 6,13 - 4,10 - 5,0.84 @ Utah State,-0.41 (H) Air Force,,,-0.037,185,0.11,0.055,0.054
+,,Bowling Green,,MAC,0.106,22 - 12,14 - 7,14 - 2,8 - 10,0.85 (H) Buffalo,-0.59 @ Cleveland State,,,0.005,124,0.068,0.036,0.032
+,,East Tennessee State,,SoCon,0.105,24 - 9,14 - 6,13 - 2,11 - 7,0.63 (H) Furman,-0.24 @ Illinois,,,-0.039,194,0.132,0.064,0.067
+,,Charleston,,CAA,0.103,24 - 9,13 - 7,13 - 2,11 - 7,0.87 @ VCU,-0.44 (H) Drexel,,,-0.049,205,0.079,0.047,0.031
+,,Rutgers,,Big Ten,0.103,14 - 17,7 - 14,10 - 7,4 - 10,0.75 @ Iowa,-0.51 @ Fordham,,,0.153,36,0.02,-0.018,0.038
+,,Penn,,Ivy,0.102,19 - 12,7 - 8,9 - 4,10 - 8,0.79 @ Temple,-0.58 (H) Columbia,,,0.017,108,0.059,0.016,0.042
+,,Georgia Southern,,Sun Belt,0.1,21 - 12,13 - 7,10 - 4,11 - 8,0.51 (N) Montana,-0.24 (H) Texas-Arlington,,,-0.007,145,0.089,0.053,0.035
+,,Illinois,,Big Ten,0.099,12 - 21,8 - 14,9 - 6,3 - 15,0.86 (H) Michigan State,-0.30 (H) Florida Atlantic,,,0.169,25,0.018,0.02,-0.002
+,,Rhode Island,,Atlantic 10,0.091,18 - 15,11 - 10,9 - 5,9 - 10,0.76 (N) VCU,-0.62 (H) Fordham,,,0.034,100,0.031,0.003,0.028
+,,Marshall,,C-USA,0.09,19 - 14,12 - 8,12 - 3,7 - 11,0.72 @ Old Dominion,-0.35 @ Rice,,,0.037,96,0.013,0.049,-0.037
+,,Central Michigan,,MAC,0.087,23 - 11,12 - 9,13 - 4,10 - 7,0.51 (N) Kent State,-0.29 (N) Weber State,,,-0.039,192,0.055,0.068,-0.013
+,,Miami (FL),,ACC,0.085,14 - 18,6 - 14,11 - 5,3 - 13,0.55 (H) Clemson,-0.23 @ Wake Forest,,,0.145,46,0.063,0.044,0.019
+,,South Florida,,AAC,0.085,19 - 13,8 - 11,14 - 5,5 - 8,0.57 (H) Memphis,-0.48 (H) The Citadel,,,0.014,113,0.065,0.001,0.064
+,,Montana,,Big Sky,0.082,26 - 8,19 - 4,12 - 2,14 - 6,0.59 (H) Georgia State,-0.44 (H) Portland State,,,-0.104,277,0.104,0.06,0.044
+,,Texas State,,Sun Belt,0.078,24 - 9,13 - 7,11 - 3,13 - 6,0.72 @ Georgia State,-0.32 @ South Alabama,,,-0.068,224,0.083,0.002,0.081
+,,Georgia Tech,,ACC,0.078,14 - 18,6 - 13,11 - 7,3 - 11,0.80 @ Syracuse,-0.34 (H) Georgia,,,0.127,55,0.017,-0.044,0.061
+,,USC,,Pac-12,0.077,16 - 17,9 - 11,12 - 5,4 - 12,0.65 (H) Oregon,-0.44 (H) Vanderbilt,,,0.08,81,0.073,0.047,0.026
+,,Connecticut,,AAC,0.076,16 - 17,7 - 13,13 - 5,3 - 12,0.65 (N) Syracuse,-0.15 @ SMU,,,0.085,78,0.061,0.045,0.016
+,,Boston College,,ACC,0.076,14 - 17,5 - 14,10 - 8,4 - 9,0.82 (H) Florida State,-0.43 (H) IUPUI,,,0.099,67,0.016,0.018,-0.002
+,,Loyola Marymount,,WCC,0.075,20 - 11,8 - 9,11 - 4,9 - 7,0.61 @ San Francisco,-0.63 @ UC-Riverside,,,-0.015,151,0.046,-0.005,0.051
+,,SMU,,AAC,0.074,15 - 17,7 - 13,10 - 8,5 - 9,0.60 @ Georgetown,-0.21 (N) Bradley,,,0.088,76,0.065,0.085,-0.02
+,,Stanford,,Pac-12,0.072,15 - 16,8 - 11,10 - 4,5 - 12,0.66 (H) Arizona State,-0.55 (H) California,,,0.104,62,0.026,-0.019,0.045
+,,Bucknell,,Patriot,0.07,21 - 12,15 - 6,12 - 3,9 - 9,0.74 @ Vermont,-0.80 (H) Fairfield,,,-0.031,168,0.051,0.034,0.017
+,,Louisiana Tech,,C-USA,0.07,20 - 13,10 - 10,15 - 1,5 - 12,0.62 @ Wichita State,-0.57 @ Charlotte,,,-0.021,157,0.052,0.032,0.021
+,,Grand Canyon,,WAC,0.07,20 - 13,12 - 7,12 - 2,8 - 11,0.55 (H) Utah Valley,-0.40 @ UMKC,,,-0.024,161,0.089,0.051,0.039
+,,Pittsburgh,,ACC,0.064,14 - 19,4 - 16,11 - 7,3 - 12,0.85 (H) Florida State,-0.65 (H) Niagara,,,0.103,63,0.047,0.004,0.043
+,,Notre Dame,,ACC,0.062,14 - 19,4 - 16,11 - 8,3 - 11,0.77 (N) Purdue,-0.32 (H) Wake Forest,,,0.123,57,0.03,0.027,0.003
+,,Colgate,,Patriot,0.061,24 - 10,16 - 5,15 - 1,9 - 9,0.53 @ Lehigh,-0.48 @ Loyola (MD),,,-0.07,229,0.058,0.063,-0.004
+,,Southern Miss,,C-USA,0.061,20 - 12,12 - 8,11 - 3,9 - 9,0.74 @ Old Dominion,-1.03 (H) Non D-I,,,-0.031,169,0.068,0.037,0.031
+,,Princeton,,Ivy,0.06,16 - 12,8 - 7,7 - 5,9 - 7,0.75 @ Arizona State,-0.32 (H) Saint Joseph's,,,0.002,129,-0.015,-0.044,0.029
+,,Loyola (Chicago),,MVC,0.059,20 - 13,13 - 7,13 - 4,7 - 9,0.65 @ Drake,-0.47 @ Evansville,,,-0.023,159,0.081,0.025,0.056
+,,Jacksonville State,,OVC,0.058,24 - 9,16 - 4,11 - 1,13 - 8,0.81 @ Belmont,-0.46 @ Tennessee-Martin,,,-0.1,274,0.066,0.017,0.049
+,,Brown,,Ivy,0.057,19 - 11,7 - 7,12 - 3,7 - 8,0.59 @ San Diego State,-0.59 (H) Columbia,,,-0.051,208,0.046,-0.019,0.066
+,,Northwestern,,Big Ten,0.057,13 - 19,4 - 17,10 - 8,3 - 11,0.56 (H) Ohio State,-0.28 (N) Illinois,,,0.136,53,0.036,-0.029,0.065
+,,Radford,,Big South,0.057,22 - 11,14 - 5,11 - 3,11 - 8,0.62 @ Texas,-0.46 (H) Hampton,,,-0.061,217,0.075,0.06,0.015
+,,Ohio,,MAC,0.054,14 - 17,6 - 13,11 - 5,3 - 12,0.45 (H) Bowling Green,-0.28 (H) Eastern Michigan,,,0.062,88,-0.017,-0.049,0.033
+,,St. Bonaventure,,Atlantic 10,0.052,18 - 16,14 - 7,9 - 5,9 - 11,0.50 (H) Saint Louis,-0.54 @ Niagara,,,0.016,112,0.061,-0.007,0.068
+,,Akron,,MAC,0.049,17 - 16,9 - 11,14 - 3,3 - 13,0.53 (H) Kent State,-0.29 @ Purdue-Fort Wayne,,,0.01,118,0.05,-0.037,0.087
+,,Georgia,,SEC,0.048,11 - 21,2 - 17,8 - 9,3 - 12,0.66 @ Florida,-0.19 (H) Missouri,,,0.15,38,-0.01,-0.008,-0.002
+,,Northern Kentucky,,Horizon,0.048,26 - 8,16 - 5,17 - 1,9 - 7,0.33 (N) Wright State,-0.70 (H) Cleveland State,,,-0.112,287,0.104,0.06,0.044
+,,Stony Brook,,America East,0.047,24 - 8,12 - 5,10 - 4,14 - 4,0.48 @ South Carolina,-0.75 (H) Binghamton,,,-0.118,298,0.053,-0.009,0.061
+,,Northern Illinois,,MAC,0.044,17 - 17,10 - 11,10 - 6,7 - 11,0.84 (H) Buffalo,-0.52 @ Western Michigan,,,0.007,122,0.029,0.037,-0.009
+,,UAB,,C-USA,0.042,20 - 14,12 - 9,11 - 6,9 - 8,0.64 (H) Old Dominion,-0.68 (H) Charlotte,,,-0.036,180,0.04,0.042,-0.002
+,,Duquesne,,Atlantic 10,0.04,19 - 13,10 - 9,15 - 5,4 - 8,0.49 (H) Saint Louis,-0.45 @ LaSalle,,,-0.038,190,0.011,0.017,-0.005
+,,Miami (OH),,MAC,0.04,15 - 17,7 - 12,10 - 5,5 - 12,0.58 @ Bowling Green,-0.52 @ Western Michigan,,,0.028,102,0.029,0.009,0.02
+,,Lehigh,,Patriot,0.039,20 - 11,13 - 7,11 - 3,9 - 8,0.35 (H) Princeton,-0.51 @ Loyola (MD),,,-0.045,201,0.025,0.058,-0.033
+,,Eastern Michigan,,MAC,0.039,15 - 17,9 - 10,11 - 7,4 - 10,0.67 (H) Toledo,-0.50 (H) Detroit,,,0.036,98,-0.017,-0.013,-0.004
+,,Northern Iowa,,MVC,0.038,16 - 18,11 - 10,9 - 5,7 - 13,0.60 (N) Old Dominion,-0.33 @ Valparaiso,,,0.005,123,0.007,-0.012,0.02
+,,North Texas,,C-USA,0.038,21 - 12,9 - 11,12 - 4,9 - 8,0.45 (H) Marshall,-0.30 (H) Florida Atlantic,,,-0.074,237,0.046,0,0.047
+,,Austin Peay,,OVC,0.036,22 - 11,14 - 6,10 - 2,12 - 9,0.55 (N) Liberty,-0.40 @ Eastern Illinois,,,-0.082,251,0.1,0.082,0.018
+,,George Mason,,Atlantic 10,0.036,18 - 15,12 - 8,11 - 6,7 - 9,0.65 @ Dayton,-0.40 (H) American,,,-0.007,141,0.029,0.018,0.011
+,,Southern Illinois,,MVC,0.034,17 - 15,10 - 9,9 - 6,8 - 9,0.50 (H) Saint Louis,-0.53 (N) Massachusetts,,,0.024,104,0.047,0.021,0.025
+,,Ball State,,MAC,0.033,16 - 17,7 - 13,7 - 7,9 - 10,0.82 @ Toledo,-0.45 @ Evansville,,,0.024,103,0.06,0.013,0.048
+,,Bradley,,MVC,0.032,20 - 14,12 - 9,10 - 6,10 - 8,0.42 @ Southern Illinois,-0.53 (H) Eastern Illinois,,,-0.036,181,0.017,-0.012,0.03
+,,Texas-Arlington,,Sun Belt,0.032,17 - 16,13 - 7,9 - 5,8 - 11,0.56 @ Texas State,-0.55 (H) TAMU-Corpus Christi,,,0.016,110,0.008,-0.037,0.045
+,,Abilene Christian,,Southland,0.031,27 - 6,16 - 4,13 - 2,14 - 4,0.28 @ Lamar,-0.43 @ Stephen F. Austin,,,-0.173,348,0.098,0.045,0.053
+,,Illinois State,,MVC,0.03,17 - 16,10 - 10,12 - 4,5 - 12,0.67 @ Drake,-0.44 (H) Valparaiso,,,-0.001,132,-0.028,-0.017,-0.01
+,,South Dakota State,,Summit,0.025,24 - 8,14 - 3,14 - 1,10 - 7,0.38 (H) Grand Canyon,-0.71 (N) Western Illinois,,,-0.128,317,0.124,0.094,0.029
+,,Texas-Rio Grande Valley,,WAC,0.024,19 - 16,10 - 8,10 - 8,9 - 8,0.47 @ Grand Canyon,-0.46 (H) Rice,,,-0.013,148,0.005,-0.037,0.042
+,,Santa Clara,,WCC,0.02,16 - 15,8 - 9,11 - 6,5 - 9,0.50 (H) San Francisco,-0.60 (H) Idaho State,,,-0.002,134,-0.022,-0.032,0.01
+,,Wake Forest,,ACC,0.02,11 - 20,4 - 15,8 - 8,3 - 12,0.57 (H) Davidson,-0.59 (H) Houston Christian,,,0.138,51,-0.053,-0.014,-0.04
+,,Wright State,,Horizon,0.02,21 - 13,15 - 6,15 - 2,6 - 11,0.68 (H) Toledo,-0.42 @ Detroit,,,-0.082,248,0.061,0.02,0.041
+,,Pepperdine,,WCC,0.019,16 - 18,9 - 11,9 - 5,7 - 13,0.68 (H) St. Mary's (CA),-0.62 @ UC-Riverside,,,0.004,126,0.036,0.04,-0.004
+,,UNLV,,Mountain West,0.018,17 - 14,11 - 8,10 - 7,7 - 7,0.53 (N) BYU,-0.42 (H) Valparaiso,,,-0.014,150,0.032,0.033,-0.001
+,,Texas-San Antonio,,C-USA,0.018,17 - 15,11 - 8,11 - 4,6 - 11,0.60 (H) Old Dominion,-1.01 (H) Non D-I,,,-0.037,183,-0.005,0.01,-0.015
+,,Louisiana,,Sun Belt,0.017,19 - 13,10 - 9,10 - 4,9 - 9,0.58 (H) Georgia State,-0.59 (H) Appalachian State,,,-0.043,198,-0.005,0.034,-0.038
+,,Saint Joseph's,,Atlantic 10,0.017,14 - 19,7 - 13,10 - 5,4 - 14,0.63 (H) Old Dominion,-0.64 (H) George Washington,,,0.043,92,-0.018,0.017,-0.034
+,,Florida International,,C-USA,0.016,19 - 13,10 - 9,12 - 4,7 - 9,0.54 @ Western Kentucky,-0.61 @ UTEP,,,-0.068,226,-0.024,-0.011,-0.014
+,,Vanderbilt,,SEC,0.014,9 - 23,0 - 19,8 - 10,1 - 13,0.67 (H) Arizona State,-0.26 @ Georgia,,,0.146,43,-0.032,-0.034,0.002
+,,Indiana State,,MVC,0.014,15 - 16,7 - 12,9 - 5,6 - 11,0.51 (N) Colorado,-0.42 (N) Valparaiso,,,-0.005,137,-0.046,-0.023,-0.023
+,,Florida Atlantic,,C-USA,0.012,17 - 15,8 - 11,9 - 5,8 - 10,0.86 @ UCF,-0.67 (H) Charlotte,,,-0.044,200,-0.002,-0.04,0.037
+,,Gardner-Webb,,Big South,0.012,23 - 11,13 - 6,13 - 0,10 - 11,0.51 @ Radford,-0.47 (N) Eastern Illinois,,,-0.118,297,0.065,0.058,0.007
+,,NJIT,,ASUN,0.008,21 - 12,9 - 9,10 - 4,11 - 8,0.43 (H) Colgate,-0.66 @ Kennesaw State,,,-0.065,223,0.031,-0.006,0.037
+,,Cornell,,Ivy,0.007,15 - 15,7 - 7,9 - 4,6 - 11,0.59 @ Harvard,-0.53 @ Niagara,,,-0.014,149,-0.048,-0.053,0.005
+,,Missouri State,,MVC,0.004,16 - 16,10 - 9,11 - 4,5 - 12,0.46 @ Loyola (Chicago),-0.56 (H) Evansville,,,-0.016,153,0.03,0.021,0.01
+,,Nebraska-Omaha,,Summit,0.003,21 - 11,15 - 4,10 - 2,11 - 9,0.43 (H) South Dakota State,-0.68 (H) Northern Arizona,,,-0.079,241,0.031,0.065,-0.034
+,,Sam Houston State,,Southland,-0.005,21 - 11,16 - 3,12 - 2,9 - 9,0.56 @ Abilene Christian,-0.57 (H) Central Arkansas,,,-0.122,307,0.048,0.042,0.006
+,,Pacific,,WCC,-0.006,14 - 18,4 - 13,9 - 7,5 - 11,0.65 (H) UC-Irvine,-0.33 @ Boise State,,,0.013,114,-0.045,-0.044,-0.002
+,,UC-Santa Barbara,,Big West,-0.007,22 - 10,11 - 7,12 - 3,10 - 7,0.50 (H) San Francisco,-0.65 @ UC-Riverside,,,-0.127,315,0.069,0.047,0.022
+,,Louisiana-Monroe,,Sun Belt,-0.007,18 - 15,11 - 10,13 - 2,5 - 13,0.58 (H) Georgia State,-0.63 @ Tennessee Tech,,,-0.032,174,0.054,0.085,-0.031
+,,Campbell,,Big South,-0.007,20 - 12,13 - 5,12 - 4,8 - 8,0.49 @ Radford,-0.49 (H) The Citadel,,,-0.129,319,0.055,0.058,-0.003
+,,Seattle,,WAC,-0.009,18 - 14,6 - 11,14 - 5,4 - 9,0.38 (H) Nebraska-Omaha,-0.43 (H) Southern Utah,,,-0.076,238,0.014,-0.013,0.027
+,,New Mexico,,Mountain West,-0.011,14 - 18,8 - 12,9 - 7,5 - 11,0.88 (H) Nevada,-0.74 @ San Jose State,,,0.004,125,0.016,0.01,0.007
+,,Winthrop,,Big South,-0.012,18 - 12,10 - 7,11 - 3,7 - 9,0.42 @ Southern Illinois,-0.63 (H) Longwood,,,-0.093,264,0.03,0.051,-0.022
+,,Cal State-Bakersfield,,WAC,-0.013,16 - 15,7 - 10,9 - 4,7 - 11,0.53 (H) Utah Valley,-0.42 @ South Dakota,,,-0.056,214,-0.035,0,-0.035
+,,Samford,,SoCon,-0.015,17 - 16,7 - 13,11 - 6,6 - 10,0.69 @ Furman,-0.57 @ Western Carolina,,,-0.039,195,0.049,0.03,0.019
+,,California,,Pac-12,-0.015,8 - 23,3 - 16,7 - 9,1 - 14,0.74 (H) Washington,-0.41 @ Washington State,,,0.097,71,-0.087,-0.014,-0.073
+,,Prairie View,,SWAC,-0.015,22 - 12,20 - 1,11 - 0,11 - 12,0.35 @ Santa Clara,-0.42 @ East Carolina,,,-0.128,318,0.002,0.014,-0.011
+,,Washington State,,Pac-12,-0.019,11 - 21,4 - 15,9 - 8,2 - 13,0.81 @ Arizona State,-0.43 @ California,,,0.033,101,-0.046,0.02,-0.065
+,,North Florida,,ASUN,-0.02,16 - 17,10 - 8,10 - 3,6 - 14,0.53 (H) Liberty,-0.70 @ Kennesaw State,,,-0.017,155,-0.013,0.007,-0.019
+,,Northern Colorado,,Big Sky,-0.023,21 - 11,15 - 6,10 - 3,11 - 8,0.61 @ Montana,-0.69 (N) SIU-Edwardsville,,,-0.117,296,0.064,0.039,0.025
+,,UMBC,,America East,-0.023,21 - 13,13 - 6,13 - 4,8 - 9,0.76 @ Vermont,-0.68 (H) Towson,,,-0.143,332,0.004,-0.044,0.048
+,,Cal State-Fullerton,,Big West,-0.024,16 - 17,12 - 7,9 - 3,7 - 14,0.36 (H) UC-Santa Barbara,-0.50 @ UC-Davis,,,-0.035,179,0.009,-0.02,0.028
+,,California Baptist,,WAC,-0.028,16 - 14,7 - 9,8 - 6,8 - 8,0.68 (H) New Mexico State,-0.59 (N) Arkansas-Pine Bluff,,,-0.092,262,0.015,0.044,-0.029
+,,Weber State,,Big Sky,-0.029,18 - 15,12 - 10,10 - 5,8 - 10,0.53 (H) BYU,-0.48 @ Idaho State,,,-0.108,283,0.042,0.015,0.028
+,,Green Bay,,Horizon,-0.029,17 - 16,11 - 9,12 - 3,5 - 13,0.68 (H) Belmont,-0.55 @ Youngstown State,,,-0.046,204,0.001,-0.002,0.003
+,,Hawaii,,Big West,-0.03,18 - 13,9 - 8,13 - 5,5 - 8,0.50 (H) Colorado,-0.74 @ Cal Poly,,,-0.114,291,0.012,0.02,-0.008
+,,Long Beach State,,Big West,-0.032,15 - 19,9 - 9,9 - 5,6 - 14,0.78 @ UC-Irvine,-0.49 @ UC-Davis,,,-0.032,172,-0.028,-0.027,-0.001
+,,William & Mary,,CAA,-0.032,14 - 17,10 - 9,9 - 5,5 - 12,0.50 (H) Charleston,-0.63 (H) Elon,,,-0.012,147,-0.031,0,-0.031
+,,Hartford,,America East,-0.034,18 - 15,11 - 7,10 - 4,8 - 11,0.47 (H) Bowling Green,-0.69 (H) Central Connecticut,,,-0.08,245,0.035,0.064,-0.029
+,,Valparaiso,,MVC,-0.034,15 - 18,8 - 12,8 - 7,7 - 11,0.42 @ Southern Illinois,-0.55 (H) Evansville,,,-0.033,177,-0.031,-0.036,0.005
+,,Holy Cross,,Patriot,-0.036,16 - 17,7 - 13,8 - 5,8 - 12,0.50 (N) Stony Brook,-0.60 (H) Loyola (MD),,,-0.038,186,-0.026,-0.013,-0.013
+,,North Dakota State,,Summit,-0.038,18 - 15,12 - 7,10 - 3,8 - 12,0.39 (N) Nebraska-Omaha,-0.80 (N) Incarnate Word,,,-0.087,258,0.014,0.036,-0.022
+,,Coastal Carolina,,Sun Belt,-0.039,15 - 16,9 - 10,9 - 4,6 - 12,0.60 (H) Georgia State,-0.67 (N) Manhattan,,,-0.051,209,0.026,0.02,0.006
+,,Boise State,,Mountain West,-0.04,13 - 20,8 - 12,8 - 7,5 - 13,0.48 (H) San Diego State,-0.60 (H) Idaho State,,,0,130,0.049,0.041,0.007
+,,Texas Southern,,SWAC,-0.042,21 - 13,16 - 5,10 - 2,11 - 11,0.72 @ Oregon,-0.89 (H) Southern U.,,,-0.122,306,-0.033,0.015,-0.048
+,,Charleston Southern,,Big South,-0.044,17 - 15,11 - 8,11 - 4,6 - 11,0.39 (H) Radford,-0.41 @ Middle Tennessee,,,-0.126,314,0.034,-0.006,0.04
+,,Florida Gulf Coast,,ASUN,-0.046,14 - 18,9 - 8,10 - 4,4 - 14,0.58 (H) Lipscomb,-0.73 @ Stetson,,,-0.038,187,-0.046,-0.02,-0.025
+,,Delaware,,CAA,-0.046,17 - 16,9 - 11,9 - 7,8 - 9,0.70 @ Northeastern,-0.97 (H) Delaware State,,,-0.072,233,-0.049,0.006,-0.054
+,,East Carolina,,AAC,-0.049,10 - 21,3 - 16,9 - 9,1 - 12,0.80 (H) Cincinnati,-0.54 @ Charlotte,,,0.038,95,-0.089,-0.062,-0.027
+,,Air Force,,Mountain West,-0.05,14 - 18,9 - 11,9 - 6,5 - 12,0.60 @ Fresno State,-0.51 (H) Colorado State,,,-0.032,170,-0.048,-0.027,-0.021
+,,Lamar,,Southland,-0.051,20 - 13,13 - 7,13 - 2,7 - 11,0.30 (H) Sam Houston State,-0.47 @ Houston Christian,,,-0.14,329,0.043,0.034,0.009
+,,New Orleans,,Southland,-0.051,19 - 13,14 - 7,12 - 3,7 - 10,0.32 (N) Sam Houston State,-0.62 (H) Nicholls State,,,-0.148,335,-0.031,-0.045,0.014
+,,Illinois-Chicago,,Horizon,-0.052,16 - 16,10 - 9,12 - 4,4 - 12,0.46 (H) Northern Kentucky,-0.60 @ Milwaukee,,,-0.08,244,-0.019,-0.026,0.007
+,,Eastern Washington,,Big Sky,-0.054,16 - 18,14 - 9,10 - 4,6 - 14,0.51 (H) Montana,-0.77 @ Idaho,,,-0.057,215,-0.026,-0.016,-0.009
+,,Presbyterian,,Big South,-0.054,18 - 15,10 - 8,12 - 3,6 - 12,0.31 (H) Gardner-Webb,-0.68 (H) Jacksonville,,,-0.121,304,0.057,0.075,-0.018
+,,Rice,,C-USA,-0.056,13 - 19,8 - 11,9 - 7,4 - 12,0.41 (H) Marshall,-0.68 (H) Charlotte,,,-0.028,165,-0.063,0.004,-0.067
+,,Middle Tennessee,,C-USA,-0.057,11 - 21,8 - 11,9 - 5,2 - 16,0.39 @ UAB,-0.38 @ Vanderbilt,,,0.01,117,-0.075,-0.058,-0.017
+,,Evansville,,MVC,-0.061,11 - 21,5 - 14,9 - 7,2 - 14,0.52 (H) Drake,-0.36 @ Arkansas State,,,-0.004,136,-0.049,-0.044,-0.005
+,,Colorado State,,Mountain West,-0.061,12 - 20,7 - 12,8 - 9,4 - 11,0.51 (H) Fresno State,-0.65 @ Wyoming,,,-0.015,152,0.013,0.058,-0.045
+,,Drexel,,CAA,-0.062,13 - 19,7 - 12,9 - 7,4 - 12,0.61 @ Charleston,-0.57 @ Towson,,,-0.037,184,-0.034,0.026,-0.06
+,,Arkansas State,,Sun Belt,-0.062,13 - 19,7 - 12,10 - 4,3 - 15,0.40 @ Louisiana,-0.55 (N) UNC-Wilmington,,,-0.031,167,-0.055,-0.011,-0.044
+,,Mercer,,SoCon,-0.062,11 - 20,6 - 13,9 - 6,2 - 14,0.31 @ Samford,-0.50 @ VMI,,,-0.01,146,0.006,0.005,0.001
+,,Purdue-Fort Wayne,,Summit,-0.063,18 - 15,10 - 8,11 - 5,7 - 10,0.45 (H) South Dakota State,-0.71 @ Western Illinois,,,-0.124,312,0.029,0.049,-0.02
+,,UMKC,,WAC,-0.065,11 - 21,6 - 11,8 - 5,3 - 16,0.39 (H) Grand Canyon,-0.72 (H) Milwaukee,,,-0.001,133,-0.038,-0.027,-0.01
+,,Fairleigh Dickinson,,NEC,-0.065,20 - 13,15 - 6,13 - 4,7 - 9,0.43 @ Princeton,-0.68 (H) Central Connecticut,,,-0.152,336,0.022,0.044,-0.022
+,,South Alabama,,Sun Belt,-0.065,17 - 17,10 - 11,13 - 6,4 - 11,0.47 (H) Texas State,-0.74 (H) Jacksonville,,,-0.084,254,-0.018,0.003,-0.021
+,,Troy,,Sun Belt,-0.066,12 - 18,5 - 13,8 - 8,4 - 10,0.57 (H) Georgia State,-0.64 (H) Arkansas-Little Rock,,,-0.034,178,-0.044,0.001,-0.046
+,,St. Francis (PA),,NEC,-0.068,18 - 14,14 - 7,12 - 4,6 - 10,0.31 @ Fairleigh Dickinson,-0.57 @ Bryant,,,-0.13,320,-0.021,0.037,-0.059
+,,High Point,,Big South,-0.069,16 - 15,9 - 8,9 - 4,7 - 11,0.32 (H) Gardner-Webb,-0.60 (H) Longwood,,,-0.104,278,-0.006,-0.019,0.012
+,,Portland State,,Big Sky,-0.069,16 - 16,11 - 10,12 - 4,4 - 12,0.61 @ Montana,-0.53 @ Northern Arizona,,,-0.122,308,-0.02,0.002,-0.022
+,,Morehead State,,OVC,-0.072,13 - 20,9 - 11,7 - 7,6 - 13,0.17 @ Eastern Kentucky,-0.72 (H) Tennessee State,,,-0.046,203,-0.034,0.006,-0.04
+,,Oakland,,Horizon,-0.072,16 - 17,12 - 8,10 - 6,6 - 11,0.46 (H) Northern Kentucky,-0.72 (H) Milwaukee,,,-0.064,222,-0.009,0.043,-0.051
+,,Appalachian State,,Sun Belt,-0.075,11 - 21,6 - 13,9 - 5,2 - 16,0.40 @ Louisiana,-0.41 (H) South Alabama,,,-0.024,160,-0.023,0.031,-0.054
+,,Norfolk State,,MEAC,-0.076,21 - 13,16 - 3,11 - 2,10 - 11,0.16 (H) North Carolina A&T,-0.58 (H) Howard,,,-0.196,352,0,-0.019,0.019
+,,Eastern Kentucky,,OVC,-0.076,13 - 18,6 - 12,9 - 5,4 - 13,0.46 (H) Northern Kentucky,-0.77 (H) Tennessee Tech,,,-0.049,206,-0.025,-0.027,0.002
+,,Columbia,,Ivy,-0.076,10 - 18,5 - 9,5 - 7,5 - 11,0.74 @ Yale,-0.61 (N) Youngstown State,,,-0.032,176,-0.02,-0.007,-0.013
+,,Siena,,MAAC,-0.078,17 - 16,12 - 8,7 - 7,10 - 9,0.47 (H) Harvard,-0.62 @ St. Peter's,,,-0.124,313,-0.035,-0.001,-0.034
+,,Navy,,Patriot,-0.079,12 - 19,9 - 11,8 - 6,4 - 13,0.44 (H) Colgate,-0.81 @ Morgan State,,,-0.032,175,-0.077,-0.056,-0.021
+,,Southern Utah,,Big Sky,-0.081,16 - 16,11 - 12,10 - 3,6 - 13,0.34 (N) Northern Colorado,-0.53 @ Northern Arizona,,,-0.11,285,-0.036,-0.049,0.013
+,,Massachusetts,,Atlantic 10,-0.082,11 - 21,4 - 15,9 - 8,2 - 13,0.57 (H) Davidson,-0.66 (H) Fordham,,,-0.007,142,-0.038,0.015,-0.053
+,,Detroit,,Horizon,-0.082,11 - 20,8 - 11,7 - 6,4 - 14,0.47 (H) Bowling Green,-0.65 (H) Youngstown State,,,-0.006,140,-0.055,0.019,-0.074
+,,LaSalle,,Atlantic 10,-0.083,10 - 21,8 - 11,5 - 9,5 - 12,0.58 (H) Davidson,-0.64 (H) Lafayette,,,0.011,116,-0.048,-0.038,-0.011
+,,Southeastern Louisiana,,Southland,-0.084,17 - 16,13 - 7,9 - 5,8 - 11,0.57 @ Abilene Christian,-0.78 @ Mississippi Valley State,,,-0.106,280,-0.021,-0.03,0.009
+,,North Carolina A&T,,MEAC,-0.084,19 - 13,14 - 4,11 - 2,8 - 11,0.12 @ North Carolina Central,-0.63 @ Florida A&M,,,-0.174,349,-0.043,-0.019,-0.024
+,,Montana State,,Big Sky,-0.085,15 - 17,12 - 10,9 - 4,6 - 13,0.39 @ Northern Colorado,-0.61 @ Denver,,,-0.093,263,-0.045,0.039,-0.083
+,,The Citadel,,SoCon,-0.086,12 - 18,4 - 15,8 - 7,4 - 11,0.47 @ South Florida,-0.72 (H) Western Carolina,,,-0.039,193,-0.052,0.048,-0.1
+,,Boston U.,,Patriot,-0.086,15 - 18,8 - 12,7 - 8,8 - 10,0.70 @ Northeastern,-0.68 (H) Bethune-Cookman,,,-0.08,243,-0.021,0.013,-0.034
+,,Rider,,MAAC,-0.086,16 - 15,11 - 8,9 - 3,7 - 12,0.33 (N) Northern Colorado,-0.60 @ Manhattan,,,-0.115,294,0.009,0.004,0.004
+,,Richmond,,Atlantic 10,-0.086,13 - 20,7 - 13,7 - 10,6 - 10,0.60 @ Saint Louis,-0.71 (N) Wyoming,,,-0.027,163,-0.011,0.044,-0.055
+,,Iona,,MAAC,-0.087,17 - 15,15 - 6,8 - 3,9 - 12,0.26 (N) Hartford,-0.68 @ Fairfield,,,-0.12,301,0.001,0.047,-0.046
+,,Dartmouth,,Ivy,-0.088,11 - 19,2 - 12,8 - 6,3 - 13,0.50 (H) Harvard,-0.63 (N) Marist,,,-0.045,202,0.004,0.022,-0.018
+,,IUPUI,,Horizon,-0.089,16 - 16,8 - 11,11 - 4,5 - 12,0.47 (H) Northern Kentucky,-0.66 (H) Youngstown State,,,-0.107,281,0.007,0.009,-0.002
+,,Hampton,,Big South,-0.092,15 - 16,10 - 8,10 - 3,5 - 13,0.49 @ Radford,-0.61 @ St. Peter's,,,-0.123,310,0.022,0.042,-0.02
+,,American,,Patriot,-0.097,15 - 15,9 - 10,8 - 7,7 - 8,0.43 (H) Bucknell,-0.73 (H) Mount St. Mary's,,,-0.102,276,0.022,0.002,0.019
+,,Army,,Patriot,-0.097,13 - 19,8 - 11,10 - 4,3 - 15,0.44 (H) Colgate,-0.69 (H) Niagara,,,-0.072,234,-0.029,-0.058,0.029
+,,George Washington,,Atlantic 10,-0.099,9 - 24,5 - 15,6 - 11,3 - 13,0.28 @ Saint Joseph's,-0.52 @ Fordham,,,0.018,107,-0.098,-0.075,-0.023
+,,James Madison,,CAA,-0.1,14 - 19,7 - 13,8 - 6,6 - 13,0.72 @ Hofstra,-0.66 (H) Elon,,,-0.073,235,-0.073,-0.03,-0.044
+,,UNC-Wilmington,,CAA,-0.104,10 - 23,6 - 14,5 - 9,5 - 14,0.61 (H) Hofstra,-0.67 (H) Towson,,,-0.007,143,-0.078,0.012,-0.09
+,,Robert Morris,,NEC,-0.107,17 - 16,12 - 8,12 - 3,5 - 13,0.22 (H) Fairleigh Dickinson,-0.69 (H) Central Connecticut,,,-0.141,330,-0.028,-0.055,0.027
+,,UC-Davis,,Big West,-0.107,11 - 20,7 - 10,7 - 6,4 - 14,0.43 @ UC-Santa Barbara,-0.75 (H) UC-Riverside,,,-0.05,207,-0.058,-0.067,0.009
+,,Chattanooga,,SoCon,-0.107,12 - 20,7 - 12,8 - 6,4 - 14,0.23 (H) Samford,-0.71 (H) Western Carolina,,,-0.036,182,-0.059,-0.025,-0.034
+,,TAMU-Corpus Christi,,Southland,-0.109,14 - 18,9 - 10,9 - 7,5 - 11,0.35 @ Texas-Arlington,-0.57 (N) Central Arkansas,,,-0.119,300,-0.047,-0.061,0.014
+,,Canisius,,MAAC,-0.109,15 - 17,12 - 8,5 - 8,10 - 9,0.53 @ Bucknell,-0.74 (H) Manhattan,,,-0.094,265,-0.063,-0.008,-0.055
+,,Stephen F. Austin,,Southland,-0.11,14 - 16,7 - 11,10 - 6,4 - 10,0.68 @ Baylor,-0.74 (H) Northwestern State,,,-0.147,334,-0.084,-0.059,-0.025
+,,Western Michigan,,MAC,-0.113,8 - 24,2 - 17,5 - 9,3 - 15,0.25 (H) Miami (OH),-0.95 (H) USC-Upstate,,,0.034,99,-0.074,-0.046,-0.029
+,,VMI,,SoCon,-0.114,11 - 21,5 - 15,8 - 7,3 - 14,0.10 (H) The Citadel,-0.53 (H) Chattanooga,,,-0.038,191,-0.074,-0.011,-0.063
+,,Cal State-Northridge,,Big West,-0.116,13 - 20,7 - 10,7 - 9,6 - 11,0.29 @ Pepperdine,-0.78 (H) Portland,,,-0.081,246,-0.055,0.024,-0.079
+,,North Alabama,,ASUN,-0.117,10 - 22,7 - 10,8 - 4,2 - 18,0.36 (H) NJIT,-0.70 @ Stetson,,,-0.032,171,-0.125,-0.102,-0.024
+,,Monmouth,,MAAC,-0.118,14 - 21,13 - 9,6 - 6,8 - 15,0.49 @ Penn,-0.65 (H) Marist,,,-0.086,256,-0.086,-0.1,0.015
+,,Charlotte,,C-USA,-0.12,8 - 21,5 - 13,5 - 9,3 - 12,0.41 (H) Louisiana Tech,-0.59 @ UTEP,,,0.008,119,-0.117,-0.085,-0.032
+,,Sacramento State,,Big Sky,-0.12,15 - 16,9 - 13,10 - 5,5 - 11,0.23 @ Eastern Washington,-0.77 @ Idaho,,,-0.131,321,-0.033,-0.062,0.029
+,,South Dakota,,Summit,-0.122,13 - 17,7 - 10,8 - 6,5 - 11,0.25 (N) UMBC,-0.79 (H) Western Illinois,,,-0.095,269,-0.014,-0.023,0.009
+,,St. Francis (NY),,NEC,-0.122,17 - 15,9 - 10,11 - 3,6 - 12,0.21 @ Presbyterian,-0.73 (H) Mount St. Mary's,,,-0.161,342,-0.031,-0.051,0.021
+,,UMass Lowell,,America East,-0.122,15 - 17,7 - 10,8 - 5,7 - 12,0.38 (H) NJIT,-0.94 (H) Maine,,,-0.122,309,-0.017,0.032,-0.049
+,,Arkansas-Little Rock,,Sun Belt,-0.122,10 - 21,5 - 13,7 - 9,3 - 12,0.34 (H) Sam Houston State,-0.65 (H) Arkansas-Pine Bluff,,,-0.04,196,-0.04,-0.032,-0.008
+,,Tennessee-Martin,,OVC,-0.123,12 - 19,7 - 13,10 - 4,2 - 15,0.39 (H) Jacksonville State,-0.62 @ Tulane,,,-0.091,260,-0.099,0.013,-0.112
+,,Tulane,,AAC,-0.126,4 - 27,0 - 19,3 - 12,1 - 15,0.45 (N) South Dakota State,-0.91 (N) Alabama A&M,,,0.085,79,-0.118,-0.082,-0.037
+,,Fordham,,Atlantic 10,-0.13,12 - 20,3 - 16,9 - 10,3 - 10,0.45 @ Rhode Island,-0.73 @ Maine,,,-0.079,242,-0.042,-0.045,0.003
+,,Quinnipiac,,MAAC,-0.13,16 - 14,11 - 8,7 - 8,9 - 6,0.23 @ Iona,-0.74 (H) Manhattan,,,-0.165,345,-0.006,0.03,-0.036
+,,Houston Christian,,Southland,-0.13,12 - 18,8 - 11,9 - 4,3 - 14,0.27 @ Wake Forest,-0.67 @ McNeese State,,,-0.101,275,-0.05,0.036,-0.085
+,,Sacred Heart,,NEC,-0.132,15 - 17,11 - 8,10 - 3,5 - 14,0.24 (H) Hartford,-0.74 (H) Mount St. Mary's,,,-0.121,305,-0.009,0.034,-0.044
+,,Oral Roberts,,Summit,-0.133,11 - 21,7 - 10,7 - 6,4 - 15,0.45 @ Nebraska-Omaha,-0.65 @ Western Illinois,,,-0.068,225,-0.098,-0.011,-0.086
+,,Portland,,WCC,-0.133,7 - 25,0 - 17,6 - 11,1 - 14,0.10 (H) Sacramento State,-0.55 (H) Grambling,,,-0.017,154,-0.156,-0.092,-0.064
+,,Cleveland State,,Horizon,-0.134,10 - 21,5 - 13,8 - 9,2 - 12,0.57 @ Northern Kentucky,-0.59 @ Milwaukee,,,-0.078,240,-0.067,-0.015,-0.052
+,,Loyola (MD),,Patriot,-0.135,11 - 21,7 - 12,7 - 5,4 - 16,0.44 (H) Colgate,-0.66 (H) Lafayette,,,-0.044,199,-0.071,-0.016,-0.054
+,,Western Carolina,,SoCon,-0.136,7 - 25,4 - 15,4 - 8,3 - 17,0.23 (H) Samford,-0.61 (H) VMI,,,0.016,111,-0.093,-0.038,-0.055
+,,Idaho State,,Big Sky,-0.137,11 - 19,7 - 14,6 - 7,5 - 12,0.32 @ Santa Clara,-0.69 (H) Northern Arizona,,,-0.082,250,-0.098,0.015,-0.113
+,,Central Arkansas,,Southland,-0.137,14 - 19,9 - 11,8 - 5,6 - 14,0.39 @ Sam Houston State,-0.74 (H) Northwestern State,,,-0.097,271,-0.09,-0.039,-0.051
+,,Lafayette,,Patriot,-0.139,10 - 20,7 - 12,4 - 11,6 - 9,0.28 @ Fairleigh Dickinson,-0.62 @ St. Peter's,,,-0.072,232,-0.099,-0.017,-0.082
+,,Elon,,CAA,-0.141,11 - 21,7 - 12,5 - 11,6 - 10,0.24 @ William & Mary,-0.73 (N) UC-Riverside,,,-0.063,220,-0.1,-0.047,-0.052
+,,Longwood,,Big South,-0.141,15 - 17,5 - 12,9 - 5,6 - 12,0.35 @ Winthrop,-0.84 @ USC-Upstate,,,-0.16,341,-0.065,-0.066,0.001
+,,Long Island,,NEC,-0.142,16 - 16,10 - 10,8 - 5,8 - 11,0.35 (H) Brown,-0.73 (H) Binghamton,,,-0.155,340,-0.013,-0.024,0.011
+,,Eastern Illinois,,OVC,-0.142,14 - 18,7 - 12,7 - 6,7 - 12,0.38 @ Bradley,-0.78 (H) Tennessee Tech,,,-0.087,257,-0.079,-0.027,-0.052
+,,North Carolina Central,,MEAC,-0.143,18 - 15,13 - 6,10 - 2,8 - 13,0.19 (N) Norfolk State,-0.81 (H) Coppin State,,,-0.209,354,-0.027,-0.019,-0.008
+,,North Dakota,,Summit,-0.145,12 - 18,6 - 11,8 - 6,4 - 12,0.22 @ Purdue-Fort Wayne,-0.98 (H) Idaho,,,-0.121,303,-0.047,-0.046,-0.001
+,,Grambling,,SWAC,-0.145,17 - 16,11 - 9,11 - 3,6 - 13,0.28 @ Texas Southern,-0.81 @ Alabama A&M,,,-0.171,347,-0.048,-0.06,0.012
+,,UTEP,,C-USA,-0.148,8 - 21,3 - 15,8 - 8,0 - 13,0.26 (H) Florida International,-0.56 (H) Middle Tennessee,,,-0.038,188,-0.112,-0.133,0.022
+,,Youngstown State,,Horizon,-0.152,12 - 20,8 - 11,6 - 7,6 - 13,0.22 (H) Green Bay,-0.70 (H) Cleveland State,,,-0.084,255,-0.081,-0.004,-0.077
+,,Wagner,,NEC,-0.153,13 - 17,8 - 11,7 - 7,6 - 10,0.27 @ St. Francis (PA),-0.78 (H) Mount St. Mary's,,,-0.134,324,-0.077,-0.068,-0.009
+,,Towson,,CAA,-0.161,10 - 22,6 - 13,5 - 9,5 - 13,0.58 (H) Northeastern,-0.90 (H) Morgan State,,,-0.054,211,-0.079,-0.033,-0.046
+,,Northern Arizona,,Big Sky,-0.162,10 - 21,8 - 13,5 - 7,5 - 14,0.47 @ Nebraska-Omaha,-0.74 @ San Jose State,,,-0.072,231,-0.065,-0.014,-0.051
+,,Jacksonville,,ASUN,-0.162,12 - 20,5 - 12,5 - 8,7 - 12,0.26 @ North Florida,-0.75 (H) Florida A&M,,,-0.095,267,-0.05,-0.028,-0.022
+,,Alabama State,,SWAC,-0.164,12 - 19,10 - 10,8 - 3,4 - 16,0.09 (H) Grambling,-0.71 @ Alcorn State,,,-0.133,322,-0.108,-0.063,-0.046
+,,Nicholls State,,Southland,-0.164,14 - 17,7 - 11,9 - 4,5 - 13,0.24 @ New Orleans,-0.83 (H) McNeese State,,,-0.146,333,-0.08,-0.038,-0.042
+,,Albany,,America East,-0.168,12 - 20,7 - 10,6 - 8,6 - 12,0.57 @ Stony Brook,-0.96 (H) New Hampshire,,,-0.111,286,-0.06,-0.038,-0.022
+,,SE Missouri State,,OVC,-0.168,10 - 21,5 - 13,6 - 8,4 - 13,0.13 @ Eastern Illinois,-0.79 (H) Western Illinois,,,-0.082,247,-0.092,-0.046,-0.046
+,,Wyoming,,Mountain West,-0.172,8 - 24,4 - 15,6 - 10,2 - 14,0.40 (H) South Carolina,-0.73 (H) Denver,,,-0.042,197,-0.143,-0.104,-0.039
+,,Arkansas-Pine Bluff,,SWAC,-0.174,13 - 19,10 - 9,8 - 2,5 - 17,0.21 (H) Texas Southern,-0.71 @ Southern U.,,,-0.116,295,-0.1,-0.058,-0.041
+,,Central Connecticut,,NEC,-0.174,11 - 20,5 - 13,5 - 7,6 - 13,0.32 @ Hartford,-0.77 (H) Mount St. Mary's,,,-0.109,284,-0.108,-0.049,-0.059
+,,Jackson State,,SWAC,-0.177,13 - 19,10 - 9,9 - 4,4 - 15,0.12 @ Grambling,-0.76 @ Mississippi Valley State,,,-0.153,338,-0.133,-0.14,0.007
+,,Howard,,MEAC,-0.179,17 - 16,11 - 7,6 - 7,11 - 9,0.24 @ Norfolk State,-0.89 (H) Morgan State,,,-0.204,353,-0.061,0.016,-0.077
+,,Bryant,,NEC,-0.18,10 - 20,7 - 12,8 - 6,2 - 14,0.21 (H) St. Francis (PA),-0.54 @ Central Connecticut,,,-0.113,289,-0.107,-0.017,-0.09
+,,Tennessee State,,OVC,-0.18,9 - 21,6 - 12,6 - 7,3 - 14,0.15 @ Morehead State,-0.76 (H) Tennessee Tech,,,-0.059,216,-0.092,-0.054,-0.038
+,,Binghamton,,America East,-0.183,10 - 23,6 - 12,5 - 11,5 - 12,0.57 @ Stony Brook,-0.74 @ Morgan State,,,-0.095,268,-0.128,-0.053,-0.075
+,,SIU-Edwardsville,,OVC,-0.186,10 - 21,6 - 13,7 - 8,3 - 13,0.33 (N) Northern Colorado,-0.70 @ Western Illinois,,,-0.106,279,-0.154,-0.073,-0.081
+,,UC-Riverside,,Big West,-0.19,10 - 23,4 - 13,7 - 7,3 - 16,0.40 (H) Loyola Marymount,-0.99 (H) Cal Poly,,,-0.084,253,-0.097,-0.03,-0.067
+,,Northwestern State,,Southland,-0.194,11 - 20,6 - 12,8 - 7,3 - 13,0.11 @ Stephen F. Austin,-0.67 @ UTEP,,,-0.123,311,-0.176,-0.13,-0.046
+,,Kennesaw State,,ASUN,-0.195,6 - 26,3 - 14,6 - 8,0 - 18,0.35 (H) NJIT,-0.73 @ Stetson,,,-0.025,162,-0.217,-0.149,-0.068
+,,Milwaukee,,Horizon,-0.197,9 - 22,4 - 14,6 - 8,3 - 14,0.21 @ Oakland,-0.72 (H) Youngstown State,,,-0.069,228,-0.091,-0.049,-0.041
+,,Denver,,Summit,-0.198,8 - 22,3 - 13,6 - 7,2 - 15,0.23 (H) North Dakota State,-0.73 (N) Fairfield,,,-0.07,230,-0.096,-0.036,-0.059
+,,Florida A&M,,MEAC,-0.2,12 - 19,9 - 7,6 - 4,6 - 15,0.17 (H) North Carolina A&T,-0.92 (H) MD-Eastern Shore,,,-0.133,323,-0.124,-0.13,0.005
+,,Marist,,MAAC,-0.203,12 - 19,7 - 12,4 - 7,8 - 12,0.20 @ Canisius,-0.82 (H) Fairfield,,,-0.135,325,-0.043,-0.011,-0.031
+,,Chicago State,,WAC,-0.204,3 - 29,0 - 17,3 - 8,0 - 21,0.08 (H) Eastern Illinois,-0.71 @ Western Illinois,,,0.019,106,-0.354,-0.185,-0.169
+,,Mount St. Mary's,,NEC,-0.206,9 - 22,6 - 12,4 - 9,5 - 13,0.20 @ American,-0.76 @ Morgan State,,,-0.092,261,-0.115,-0.078,-0.037
+,,Western Illinois,,Summit,-0.206,10 - 21,5 - 13,7 - 6,3 - 15,0.44 (N) South Dakota State,-0.70 @ Stetson,,,-0.12,302,-0.083,-0.063,-0.02
+,,Tennessee Tech,,OVC,-0.209,8 - 23,4 - 14,5 - 10,3 - 13,0.26 (H) Louisiana-Monroe,-0.77 (H) Tennessee State,,,-0.052,210,-0.149,-0.148,-0.001
+,,Bethune-Cookman,,MEAC,-0.213,14 - 17,9 - 8,10 - 4,4 - 13,0.21 (H) Florida Atlantic,-0.74 @ Morgan State,,,-0.186,351,-0.039,-0.059,0.021
+,,Niagara,,MAAC,-0.219,13 - 19,6 - 13,8 - 8,5 - 11,0.34 (H) St. Bonaventure,-0.76 (H) St. Peter's,,,-0.161,343,-0.084,0.005,-0.09
+,,Savannah State,,MEAC,-0.223,11 - 20,8 - 9,6 - 5,5 - 15,0.04 (H) Bethune-Cookman,-0.90 (N) Delaware State,,,-0.154,339,-0.187,-0.053,-0.134
+,,St. Peter's,,MAAC,-0.227,10 - 22,7 - 13,7 - 7,3 - 15,0.16 (H) Siena,-0.73 (H) Manhattan,,,-0.135,326,-0.104,-0.079,-0.025
+,,Manhattan,,MAAC,-0.228,11 - 21,9 - 11,4 - 9,7 - 12,0.20 @ Canisius,-0.69 @ Fairfield,,,-0.152,337,-0.129,-0.145,0.016
+,,McNeese State,,Southland,-0.229,9 - 22,5 - 13,7 - 8,2 - 14,0.09 (H) North Carolina Central,-1.01 (H) Non D-I,,,-0.118,299,-0.126,-0.03,-0.095
+,,San Jose State,,Mountain West,-0.231,4 - 27,1 - 18,4 - 11,0 - 16,0.19 (H) New Mexico,-0.81 (H) Wyoming,,,-0.019,156,-0.233,-0.12,-0.113
+,,Stetson,,ASUN,-0.233,7 - 24,3 - 13,7 - 8,0 - 16,0.14 (H) Florida Gulf Coast,-0.73 (H) Jacksonville,,,-0.077,239,-0.162,-0.062,-0.101
+,,Fairfield,,MAAC,-0.244,9 - 22,6 - 13,5 - 7,4 - 15,0.51 @ Bucknell,-0.68 (N) Manhattan,,,-0.137,327,-0.078,-0.059,-0.018
+,,Cal Poly,,Big West,-0.248,6 - 23,2 - 14,4 - 8,2 - 15,0.20 (H) Hawaii,-0.84 (H) UC-Riverside,,,-0.082,249,-0.162,-0.063,-0.099
+,,Alcorn State,,SWAC,-0.248,10 - 21,6 - 13,10 - 3,0 - 18,0.04 (H) Arkansas-Pine Bluff,-0.82 @ Alabama A&M,,,-0.163,344,-0.2,-0.128,-0.072
+,,Maine,,America East,-0.252,5 - 27,3 - 14,3 - 9,2 - 18,0.15 @ UMass Lowell,-0.82 @ New Hampshire,,,-0.055,213,-0.155,-0.088,-0.067
+,,Incarnate Word,,Southland,-0.269,6 - 25,1 - 17,5 - 9,1 - 16,0.24 (N) North Dakota State,-0.83 (H) McNeese State,,,-0.107,282,-0.195,-0.062,-0.133
+,,Coppin State,,MEAC,-0.272,8 - 25,8 - 10,3 - 7,5 - 18,0.12 @ North Carolina Central,-1.01 (H) Delaware State,,,-0.099,272,-0.184,-0.15,-0.034
+,,Southern U.,,SWAC,-0.276,7 - 25,6 - 13,6 - 5,1 - 20,0.29 @ Texas Southern,-0.81 @ Alabama A&M,,,-0.096,270,-0.163,-0.079,-0.084
+,,USC-Upstate,,Big South,-0.285,6 - 26,1 - 16,5 - 9,1 - 17,0.06 @ Western Michigan,-0.96 (H) UNC-Asheville,,,-0.113,288,-0.138,-0.085,-0.052
+,,South Carolina State,,MEAC,-0.297,8 - 26,6 - 12,5 - 6,3 - 20,0.03 (H) Florida A&M,-0.81 @ Delaware State,,,-0.138,328,-0.127,-0.026,-0.101
+,,Idaho,,Big Sky,-0.298,5 - 27,2 - 19,4 - 11,1 - 16,0.17 (H) Eastern Washington,-0.95 (N) Non D-I,,,-0.114,290,-0.182,-0.074,-0.108
+,,UNC-Asheville,,Big South,-0.3,4 - 27,2 - 15,3 - 10,1 - 17,0.00 @ USC-Upstate,-1.09 (H) Non D-I,,,-0.083,252,-0.251,-0.123,-0.128
+,,Mississippi Valley State,,SWAC,-0.303,6 - 26,4 - 14,6 - 6,0 - 20,0.15 (H) Southeastern Louisiana,-0.84 @ Alabama A&M,,,-0.099,273,-0.238,-0.124,-0.114
+,,MD-Eastern Shore,,MEAC,-0.311,7 - 25,5 - 12,5 - 7,2 - 18,0.05 @ Florida A&M,-0.84 (N) South Carolina State,,,-0.141,331,-0.299,-0.193,-0.107
+,,New Hampshire,,America East,-0.317,5 - 24,3 - 13,4 - 10,1 - 14,0.10 (H) UMass Lowell,-0.82 (H) Fairfield,,,-0.127,316,-0.183,-0.17,-0.013
+,,Morgan State,,MEAC,-0.337,9 - 21,4 - 13,6 - 7,3 - 14,0.12 (H) Navy,-1.02 (H) Non D-I,,,-0.182,350,-0.164,-0.105,-0.059
+,,Alabama A&M,,SWAC,-0.342,5 - 27,4 - 14,4 - 8,1 - 19,0.08 (H) Grambling,-0.78 @ Mississippi Valley State,,,-0.115,293,-0.21,-0.152,-0.059
+,,Non D-I,,Non D-I,-0.363,6 - 440,0 - 0,0 - 1,6 - 439,0.45 @ Southern Miss,-0.97 @ New Hampshire,,,-0.005,138,-0.556,-0.32,-0.236
+,,Delaware State,,MEAC,-0.369,6 - 25,3 - 15,3 - 9,3 - 16,0.25 @ Delaware,-0.95 (H) Morgan State,,,-0.171,346,-0.274,-0.194,-0.081
